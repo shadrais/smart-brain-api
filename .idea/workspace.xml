@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1985c87b-963f-4faf-9082-d473726080cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fchd5BACLjpQXmveIhg3SydRpz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.6.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.0.27" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1985c87b-963f-4faf-9082-d473726080cf" name="Default Changelist" comment="" />
+      <created>1596523372184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596523372184</updated>
+      <workItem from="1596523373253" duration="754000" />
+      <workItem from="1596965175508" duration="1284000" />
+      <workItem from="1596966891233" duration="394000" />
+      <workItem from="1597077872839" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596966410857">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="418" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596966410857" />
+    <state x="693" y="283" width="524" height="505" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596965233198">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="283" width="524" height="505" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596965233198" />
+    <state width="1858" height="271" key="GridCell.Tab.0.bottom" timestamp="1596966440651">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1596966440651" />
+    <state width="1858" height="271" key="GridCell.Tab.0.center" timestamp="1596966440650">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="271" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1596966440650" />
+    <state width="1858" height="271" key="GridCell.Tab.0.left" timestamp="1596966440650">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="271" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1596966440650" />
+    <state width="1858" height="271" key="GridCell.Tab.0.right" timestamp="1596966440650">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="271" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1596966440650" />
+  </component>
+</project>
