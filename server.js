@@ -1,4 +1,5 @@
 const express = require('express');
+const bcrypt = require('bcrypt-nodejs');
 
 const app = express();
 app.use(express.json());
@@ -50,6 +51,35 @@ app.post('/register',(req,res)=>{
         joined: new Date()
     })
     res.json(database.user[database.user.length-1]);
+})
+
+app.get('/profile/:id',(req,res)=>{
+    const {id} = req.params;
+    let found = false;
+    database.user.forEach(user => {
+        if(user.id===id) {
+            found = true;
+            return res.json(user);
+        }
+    })
+    if(!found){
+        res.status(400).json('user not found');
+    }
+})
+
+app.put('/image',(req,res)=>{
+    const {id} = req.body;
+    let found = false;
+    database.user.forEach(user => {
+        if(user.id===id) {
+            found = true;
+            user.entries++;
+            return res.json(user.entries);
+        }
+    })
+    if(!found){
+        res.status(400).json('user not found');
+    }
 })
 
 app.listen(3000, () => {
