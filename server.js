@@ -1,10 +1,10 @@
 const express = require('express');
+const cors = require('cors')
 const bcrypt = require('bcrypt-nodejs');
-const cors = require('cors');
 
 const app = express();
-app.use(express.json());
-app.use(cors());
+app.use(express.json())
+app.use(cors())
 
 const database = {
     user:[
@@ -31,7 +31,7 @@ app.get('/' , (req, res) => {
     res.send(database.user);
 })
 
-app.post('/signin', (req,res) =>{
+app.post('/signin', (req,res) => {
     if(req.body.email===database.user[0].email && req.body.password===database.user[0].password)
     {
         res.json('success');
