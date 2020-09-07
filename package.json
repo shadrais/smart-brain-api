@@ -17,13 +17,16 @@
     "knex": "^0.21.5",
     "morgan": "~1.9.1",
     "pg": "^8.3.3",
-    "pug": "2.0.0-beta11"
+    "pug": "2.0.0-beta11" 
   },
   "main": "server.js",
   "devDependencies": {
     "nodemon": "^2.0.4"
   },
   "author": "",
-  "license": "ISC",
+  "license": "ISC", 
   "description": ""
 }
+
+
+ 
